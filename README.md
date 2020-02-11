@@ -4,7 +4,8 @@
 
 
 #### Dockerfile
-`python
+
+`
 # Base Images  
 ## 从天池基础镜像构建  
 FROM registry.cn-shanghai.aliyuncs.com/tcc-public/python:3  
